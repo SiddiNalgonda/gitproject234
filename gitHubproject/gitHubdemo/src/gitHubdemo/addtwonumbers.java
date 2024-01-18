@@ -5,7 +5,7 @@ public class addtwonumbers {
 		int x=12;
 		int y=6;
 		int sub= x-y;
-		System.out.println("The difference of two  number is "+sub);
+		System.out.println("The difference of  two  number is "+sub);
 	}
 	
 	
